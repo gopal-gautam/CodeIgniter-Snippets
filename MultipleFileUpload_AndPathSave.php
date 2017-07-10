@@ -1,3 +1,4 @@
+<?php
 $input1 = $this->input->post('input1'); //Input field value
 $input2 = $this->input->post('input2'); //Input field value
 $photo1 = ''; //File field value
